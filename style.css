@@ -1,0 +1,97 @@
+.index{
+    margin: 0;
+    padding: 0;
+    height: 90vh;
+    background-image:url("./Brihadeeswarar-Temple-Thanjavur-Tamil-Nadu-1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    color:yellow;
+}
+.tem>p{
+    margin-left:350px;
+    padding:50px;
+    font-size: 1.5rem;
+
+}
+nav{
+    display:flex;
+    justify-content:flex-end;
+    gap:10px;
+}
+.b1{
+    background-color:maroon;
+    font-size: 16px;
+    color:white;
+    margin-top: 5px;
+}
+.image1{
+    height:400px;
+    width:700px;
+    float:left;
+    border-radius: 20px;
+    
+}
+.ancient{
+    padding: 20px;
+    background-image: url(./back2.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    font-family:serif;
+}
+.temple1>p{
+    margin-top:10px;
+    font-size:30px;
+    text-align: center;
+}
+.image2{
+    height:400px;
+    width:700px;
+    float:right;
+    border-radius:20px;
+}
+.temple2>p{
+    margin-top:10px;
+    font-size: 30px;
+    text-align:center;
+}
+.image3{
+    height:400px;
+    width:700px;
+    float:left;
+    border-radius: 20px;
+}
+.temple3>p{
+    margin-top:10px;
+    font-size: 30px;
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
+.contact-form{
+    text-align: center;
+    border:3px solid ;
+    width: 300px;
+    margin-left: 40%;
+    border-radius: 10%;
+}
+.last{
+    background-image: url(./back3.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.contact>p{
+    font-size:25px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.contact>li{
+    font-size: 25px;
+}
+
+    
